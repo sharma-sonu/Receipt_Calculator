@@ -1,0 +1,13 @@
+Receipt:
+Rice                 40.00 x 1 = 40.00
+Sugar                42.00 x 1 = 42.00
+Moongdaal            75.00 x 1 = 75.00
+Mustard Oil          55.00 x 1 = 55.00
+Washing Soap         100.00 x 34 = 3400.00
+Butter               420.00 x 1 = 420.00
+Sour                 5000.00 x 100 = 500000.00
+Sweet                250.00 x 1 = 250.00
+Subtotal: 504282.00
+Discount: 50428.20
+Tax: 22692.69
+Total: 476546.49

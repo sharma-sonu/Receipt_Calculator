@@ -1,0 +1,5 @@
+com\mycompany\receiptcalculator\Item.class
+com\mycompany\receiptcalculator\ReceiptManager.class
+com\mycompany\receiptcalculator\Main.class
+com\mycompany\receiptcalculator\PDFGenerator.class
+com\mycompany\receiptcalculator\Receipt.class
